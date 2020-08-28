@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RED-KINNG/facerecognizerAPP.git/static/css/main.ebbb795d.chunk.css",
+    "main.js": "/RED-KINNG/facerecognizerAPP.git/static/js/main.eb20d091.chunk.js",
+    "main.js.map": "/RED-KINNG/facerecognizerAPP.git/static/js/main.eb20d091.chunk.js.map",
+    "runtime-main.js": "/RED-KINNG/facerecognizerAPP.git/static/js/runtime-main.b1fb8441.js",
+    "runtime-main.js.map": "/RED-KINNG/facerecognizerAPP.git/static/js/runtime-main.b1fb8441.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/RED-KINNG/facerecognizerAPP.git/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.1d0d399f.chunk.js": "/RED-KINNG/facerecognizerAPP.git/static/js/2.1d0d399f.chunk.js",
+    "static/js/2.1d0d399f.chunk.js.map": "/RED-KINNG/facerecognizerAPP.git/static/js/2.1d0d399f.chunk.js.map",
+    "index.html": "/RED-KINNG/facerecognizerAPP.git/index.html",
+    "precache-manifest.d0b3250670234f8b0b180570c91eb578.js": "/RED-KINNG/facerecognizerAPP.git/precache-manifest.d0b3250670234f8b0b180570c91eb578.js",
+    "service-worker.js": "/RED-KINNG/facerecognizerAPP.git/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/RED-KINNG/facerecognizerAPP.git/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.ebbb795d.chunk.css.map": "/RED-KINNG/facerecognizerAPP.git/static/css/main.ebbb795d.chunk.css.map",
+    "static/js/2.1d0d399f.chunk.js.LICENSE.txt": "/RED-KINNG/facerecognizerAPP.git/static/js/2.1d0d399f.chunk.js.LICENSE.txt",
+    "static/media/brain.png": "/RED-KINNG/facerecognizerAPP.git/static/media/brain.a9a31672.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1fb8441.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.1d0d399f.chunk.js",
+    "static/css/main.ebbb795d.chunk.css",
+    "static/js/main.eb20d091.chunk.js"
+  ]
+}
